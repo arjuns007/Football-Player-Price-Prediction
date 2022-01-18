@@ -10,6 +10,8 @@
 
 * RESULTS and other relevant information is attached below.
 
+* Different models were proposed for different categories of players, based upon the accuracy they were giving. But, overall the accuracy of every category is very good, greater than 98% every time. So, we can easily conclude that our price predictions are very highly accurate and anybody who wants this information can easily rely on the results.
+
 
 ![Screenshot 2022-01-18 at 6 32 14 PM](https://user-images.githubusercontent.com/44583018/149942668-b1092744-3aba-4e00-aaf6-7c9782cffe01.png)
 ![Screenshot 2022-01-18 at 6 32 21 PM](https://user-images.githubusercontent.com/44583018/149942891-284cf0a0-b8ae-4844-b1fe-8660029b8ced.png)
