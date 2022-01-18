@@ -11,7 +11,6 @@
 * RESULTS and other relevant information is attached below.
 
 
-![Screenshot 2022-01-18 at 6 32 14 PM](https://user-images.githubusercontent.com/44583018/149943118-e33f9448-2922-4ef3-b0d0-d1a27bbd4338.png)
 ![Screenshot 2022-01-18 at 6 32 14 PM](https://user-images.githubusercontent.com/44583018/149942668-b1092744-3aba-4e00-aaf6-7c9782cffe01.png)
 ![Screenshot 2022-01-18 at 6 32 21 PM](https://user-images.githubusercontent.com/44583018/149942891-284cf0a0-b8ae-4844-b1fe-8660029b8ced.png)
 ![Screenshot 2022-01-18 at 6 32 23 PM](https://user-images.githubusercontent.com/44583018/149942916-73290099-88d9-4bfb-be17-776d98ea1cd7.png)
